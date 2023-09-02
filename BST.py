@@ -6,6 +6,7 @@ class Node:
         self.left = None
         self.parent = parent
 
+#here I have added this new comments please take care of this
 
 class BST:
 
